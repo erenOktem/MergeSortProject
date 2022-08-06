@@ -11,4 +11,4 @@
 
 [8,11,12,16,21,22]
 
-Big-O gösterimi: O(n.logn)
+Big-O gösterimi: O(logn)
